@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mayank-Singh-X1&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff&include_all_commits=true&count_private=false&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mayank-Singh-X1&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff&include_all_commits=true&count_private=true&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mayank-Singh-X1&background=30,0f0c29,302b63,24243e&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=ffffff&stroke=000000&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Singh-X1&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff&layout=compact&hide_border=false&count_private=false)
 [![](https://visitcount.itsvg.in/api?id=Mayank-Singh-X1&icon=0&color=1)](https://visitcount.itsvg.in)
