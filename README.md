@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Mayank-Singh-X1&show_icons=true&&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayank-Singh-X1&theme=ambient_gradient&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mayank-Singh-X1&bg_color=30,0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Singh-X1&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
