@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a college student passionate about coding and exploring the world of technology.<br><br>💻 Currently learning C, C++, Javascript, Python, and Data Structures & Algorithms.<br>🚀 Interested in software development, problem-solving, and open-source contributions.<br>📚 Always curious to learn new tools, frameworks, and best practices.<br>🎯 Goal: To grow as a developer and build meaningful projects that solve real problems.
+🎓 I’m a college student passionate about coding and exploring the world of technology.<br><br>💻 Currently learning C, C++, Javascript, Python, and Data Structures & Algorithms.<br><br>🚀 Interested in software development, problem-solving, and open-source contributions.<br>📚 Always curious to learn new tools, frameworks, and best practices.<br>🎯 Goal: To grow as a developer and build meaningful projects that solve real problems.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankbrawler@gmail.com) 
